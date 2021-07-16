@@ -1819,3 +1819,14 @@ $notesWidthPercent: 25%;
 @import 'print/pdf.scss';
 @import 'print/paper.scss';
 
+.f_required {
+	color: green;
+}
+
+.f_optional {
+	color: yellow;
+}
+
+.f_no {
+	color: red;
+}
